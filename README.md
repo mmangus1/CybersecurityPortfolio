@@ -25,10 +25,14 @@ Active Reconnaissance:
   -Determine Network Vulnerabilies
   use nessus to
 
+  -Use eyes and ears to determine possible opportunistic scenarios
+
 4.) Explotation
 
   -Gain Access
   use aircrack-ng to gain Wi-Fi access, use social engineering toolkit, use metasploit, maybe a third party RAT (Remote Attached Trojan)
+
+  -Use USB Drop Key or Bluejacking/Bluesnarfing
 
 5.) Maintaining Access & Persistence Testing
 
