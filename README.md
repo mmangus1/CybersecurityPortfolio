@@ -8,6 +8,7 @@ Penetration Testing Using Home Lab/Equipment:
 Passive Reconnaissance:
 
   -OSINT Information Gathering
+  
     Using tools such as Kali Linux's spiderfoot, I gathered details on myself, the only occupant of the apartment. I found and accessed online social media profiles, gathered emails and usernames. Found relevant personal information such as past addresses and known associates.
 
 Active Reconnaissance:
