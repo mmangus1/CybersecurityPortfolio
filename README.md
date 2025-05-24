@@ -42,9 +42,14 @@ Active Reconnaissance:
 6.) Final Analysis and Reporting
 
   - Report vulnerabilities, using CVE or other relevent codes.
+  - Write a report regarding physical security flaws that are easily eploited to gain access
 
 7.) Post-Testing Remediation & Continuous Monitoring
 
   - Implement fixes, hopefully permanent ones
   - Keep software updated
   - Lower number of programs
+  - Possible survelliance increase (cameras, security guards)
+  - Possible hardware improvements (physical doors, alternative locks, etc...)
+  - Lower wireless device power (reduces risk of outside attacks)
+  - other remediations
