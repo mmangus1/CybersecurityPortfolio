@@ -11,6 +11,8 @@ Passive Reconnaissance:
   
   -Using tools such as Kali Linux's spiderfoot, I gathered details on myself, the only occupant of the apartment. I found and accessed online social media profiles, gathered emails and usernames. Found relevant personal information such as past addresses and known associates.
 
+  ![Step 1](https://github.com/mmangus1/CybersecurityPortfolio/blob/main/Screenshot_2025-05-27_10_38_42.png)
+
 Active Reconnaissance:
 
  -Can't do dumpster diving, lockpicking or B & E due to legal concerns.
