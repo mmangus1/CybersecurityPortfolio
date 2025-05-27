@@ -7,11 +7,29 @@ Penetration Testing Using Home Lab/Equipment:
 
 Passive Reconnaissance:
 
-  -OSINT Information Gathering:
+  -OSINT Information Gathering: (TODO:photos of: Add more precise output from scan and info on how to get the third party APIs up and running)
   
   -Using tools such as Kali Linux's spiderfoot, I gathered details on myself, the only occupant of the apartment. I found and accessed online social media profiles, gathered emails and usernames. Found relevant personal information such as past addresses and known associates.
 
+  I've already set up most of the APIs to give spiderfoot more access to OSINT information, so this is how you start Spiderfoot in Kali:
+
   ![Step 1](https://github.com/mmangus1/CybersecurityPortfolio/blob/main/Screenshot_2025-05-27_10_38_42.png)
+
+  Accessing the local website to initiate a scan:
+
+  ![Step 2](https://github.com/mmangus1/CybersecurityPortfolio/blob/main/Screenshot_2025-05-27_10_40_13.png)
+
+  Choosing options for the scan:
+
+  ![Step 3](https://github.com/mmangus1/CybersecurityPortfolio/blob/main/Screenshot_2025-05-27_10_40_23.png)
+
+  Output of the scan (Still Running):
+
+  ![Step 4](https://github.com/mmangus1/CybersecurityPortfolio/blob/main/Screenshot_2025-05-27_10_41_29.png)
+
+  A graph describing the output:
+
+  ![Step 5](https://github.com/mmangus1/CybersecurityPortfolio/blob/main/Screenshot_2025-05-27_10_41_32.png)
 
 Active Reconnaissance:
 
